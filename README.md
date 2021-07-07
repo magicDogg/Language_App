@@ -10,4 +10,7 @@
 1. cd (ROOT)/mysite
 2. PYTHON manage.py startapp <app_name>
 
-# Dependencies (TBD)
+# Dependencies
+1. Python3.8
+2. numpy ?
+3. TBD
